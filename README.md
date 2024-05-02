@@ -1,2 +1,2 @@
 # DaisyVerb
-Reverb algorithms the for Daisy Seed
+Reverb algorithms for the Daisy Seed
