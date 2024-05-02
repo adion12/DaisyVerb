@@ -2,7 +2,7 @@
 Reverb algorithms for the Daisy Seed
 
 # Audio Samples
-Mono and stereo audio samples of reverberators in action included.
+Mono and stereo audio samples of reverberators in action included. \n
 Original audio of files appended with a...
 1: [Round Midnight by Wes Montgomery](https://www.youtube.com/watch?v=PMhMiBxuqkg)
 2: [Flash In The Pan by Against All Logic](https://www.youtube.com/watch?v=LaSEOVulOY0)
